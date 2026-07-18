@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TestSign-OFF/TestSign-OFF.vcxproj" />
+  <Project Path="TestSign-ON/TestSign-ON.vcxproj" />
+</Solution>
