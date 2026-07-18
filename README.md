@@ -55,6 +55,7 @@ shutdown /r /t 0
 
 4. Certain games broken after enabling test signing? Just disable it.
 
+5. Missing DLL error when running the program? You might need to install the MSVC Redistributable. You can find it here: https://github.com/abbodi1406/vcredist
 ----------------------------------------------------------
 
 <img width="258" height="92" alt="{B9EB95FD-304A-4D6E-905F-843B43B704CF}" src="https://github.com/user-attachments/assets/a98c2b4c-b5d8-41bd-b7b4-5a0ec457020e" />
